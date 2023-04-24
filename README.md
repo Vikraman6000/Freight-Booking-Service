@@ -22,3 +22,8 @@ The database will be empty so feel free to add data.
 
 To access the page as an administrator , signup by giving username as "admin".
 BY default, this name is given as the administator login.
+
+
+The Project is done as a group. The frontend designing was carried out by me(Vikraman6000) and the backend was developed by Shajan7.
+The Sole Ownership of the code belongs to Mini-Project team members only.
+Use for educational and reference purposes only.
