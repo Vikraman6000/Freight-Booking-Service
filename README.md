@@ -1,4 +1,4 @@
-# Fright-Booking-Service
+# Freight-Booking-Service
 
 A Simple Web Application provides Truck booking services for all verified users.
 Contains simplied web pages that allow user to naviagate easily.
